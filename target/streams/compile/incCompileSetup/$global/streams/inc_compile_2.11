@@ -1,0 +1,772 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+37 items
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\HiveSparkSQL$.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\HiveSparkSQL.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\Records$.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\Records.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation$$anonfun$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation$$anonfun$main$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation$$typecreator1$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation$.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\Record$.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\Record.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SimpleApp$$anonfun$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SimpleApp$$anonfun$2.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SimpleApp$.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SimpleApp.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$2.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$3.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$4.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$5.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$runInferSchemaExample$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$runProgrammaticSchemaExample$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$typecreator2$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$typecreator3$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$typecreator5$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$Person$.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$Person.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$anonfun$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$anonfun$2.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$anonfun$runBasicParquetExample$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$anonfun$runParquetSchemaMergingExample$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$typecreator3$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$typecreator5$1.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$.class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample.class
+binary dependencies:
+25 items
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-tags_2.11\jars\spark-tags_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+37 items
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> HiveSparkSQL
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> HiveSparkSQL$
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Records
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Records$
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> RDDRelation
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> RDDRelation$
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> RDDRelation$$anonfun$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> RDDRelation$$anonfun$main$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> RDDRelation$$typecreator1$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Record
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Record$
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> SimpleApp
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> SimpleApp$
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> SimpleApp$$anonfun$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> SimpleApp$$anonfun$2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$anonfun$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$anonfun$2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$anonfun$3
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$anonfun$4
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$anonfun$5
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$anonfun$runInferSchemaExample$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$anonfun$runProgrammaticSchemaExample$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$typecreator2$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$typecreator3$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$$typecreator5$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$Person
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample$Person$
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample$
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample$$anonfun$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample$$anonfun$2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample$$anonfun$runBasicParquetExample$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample$$anonfun$runParquetSchemaMergingExample$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample$$typecreator3$1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample$$typecreator5$1
+used names:
+533 items
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> &&
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> <init>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> ==
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> A
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> AbstractFunction2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Any
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> AnyRef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Array
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Boolean
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Builder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> DataFrame
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> HiveSparkSQL
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> IndexOutOfBoundsException
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Int
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Iterator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> None
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Nothing
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Object
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Predef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Product
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Records
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> ScalaRunTime
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Serializable
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Some
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> SparkSession
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Statics
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> String
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> T
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> T0
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> T1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> T2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Tuple2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> Unit
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> _toString
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> anyHash
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> apache
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> appName
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> asInstanceOf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> builder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> config
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> enableHiveSupport
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> eq
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> finalizeHash
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> getOrCreate
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> implicits
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> isInstanceOf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> key
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> master
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> mix
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> org
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> package
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> runtime
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> scala
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> show
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> spark
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> sql
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> toString
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> typedProductIterator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> value
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> ||
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> $m
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> $m$untyped
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> $typecreator1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> $u
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> &&
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> <init>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> <repeated>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> ==
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> ?0
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> A
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> AbstractFunction2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Any
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> AnyRef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Array
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> ArrayOps
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> B
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Boolean
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Builder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> CanBuildFrom
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> ClassLoader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> ClassSymbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Coll
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> DataFrame
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> DataFrameReader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Function1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Inclusive
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> IndexOutOfBoundsException
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> IndexedSeq
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Int
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Iterator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> JavaUniverse
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Mirror
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> None
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Nothing
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Object
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Predef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Product
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> RDDRelation
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Range
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Record
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> RichInt
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Row
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> SaveMode
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> ScalaRunTime
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Seq
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Serializable
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Singleton
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Some
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> SparkSession
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Statics
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> String
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> StringContext
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> T
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> T0
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> T1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> T2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> That
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Tuple2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Type
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> TypeCreator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> TypeSymbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> TypeTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> U
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Unit
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> Universe
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> _toString
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> anyHash
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> apache
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> appName
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> apply
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> asInstanceOf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> asType
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> builder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> canBuildFrom
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> collect
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> config
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> createDataFrame
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> createOrReplaceTempView
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> df
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> eq
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> finalizeHash
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> foreach
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> getClass
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> getClassLoader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> getOrCreate
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> i
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> immutable
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> implicits
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> intWrapper
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> isInstanceOf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> key
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> map
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> master
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> materializeTypeTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> mix
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> org
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> package
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> parquet
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> parquetFile
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> println
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> read
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> refArrayOps
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> reflect
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> runtime
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> runtimeMirror
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> s
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> scala
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> spark
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> sql
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> staticClass
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> stop
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> to
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> toString
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> toTypeConstructor
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> typedProductIterator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> universe
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> value
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> ||
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> <init>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> <repeated>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Any
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> AnyRef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Array
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Boolean
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> CharSequence
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Function1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Int
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Long
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Object
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Predef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> RDD
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> SimpleApp
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> SparkConf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> SparkContext
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> String
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> StringContext
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> Unit
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> apache
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> cache
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> conf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> contains
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> count
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> filter
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> line
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> logData
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> logFile
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> numAs
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> numBs
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> org
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> println
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> s
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> sc
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> scala
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> setAppName
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> setMaster
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> spark
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> stop
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> textFile
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> $m
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> $m$untyped
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> $typecreator2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> $typecreator3
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> $typecreator5
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> $u
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> &&
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> +
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> <init>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> <repeated>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ==
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ?0
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> A
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> AbstractFunction2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Any
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> AnyRef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Array
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ArrayOps
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> B
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Boolean
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Builder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> CanBuildFrom
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ClassLoader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ClassTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> DataFrame
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> DataFrameReader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> DataType
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Dataset
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> DatasetHolder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Def
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Encoder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Function1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> IndexOutOfBoundsException
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Int
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Internal
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Iterator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> JavaUniverse
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Long
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Metadata
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Mirror
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ModuleSymbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> None
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Nothing
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Object
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Person
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Predef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Private
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Product
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> RDD
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ReificationSupportApi
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Row
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ScalaRunTime
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Seq
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Serializable
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Singleton
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Some
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkContext
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSQLExample
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> SparkSession
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Statics
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> String
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> StringOps
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> StringType
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Struct
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> StructField
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> StructType
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Symbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> T
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> T0
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> T1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> T2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> That
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Tuple2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Type
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> TypeCreator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> TypeSymbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> TypeTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> U
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Unit
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> Universe
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> _$3
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> _$4
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> _$6
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> _toString
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> age
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> annotation
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> anyHash
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> apache
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> appName
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> apply
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> arrayClass
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> as
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> asInstanceOf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> asModule
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> asType
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> augmentString
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> builder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> canBuildFrom
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> collection
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> config
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> createDataFrame
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> createGlobalTempView
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> createOrReplaceTempView
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> df
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> doc
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> eq
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> fields
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> finalizeHash
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> getAs
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> getClass
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> getClassLoader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> getOrCreate
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> implicits
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> internal
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> isInstanceOf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> java
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> json
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> localSeqToDatasetHolder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> longHash
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> map
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> master
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> materializeClassTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> materializeTypeTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> mix
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> model
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> moduleClass
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> name
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> newIntEncoder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> newProductEncoder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> newSession
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> newStringEncoder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> nsc
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> org
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> package
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> peopleDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> peopleRDD
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> rddToDatasetHolder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> read
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> refArrayOps
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> reflect
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> reificationSupport
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> result
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> rowRDD
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> runInferSchemaExample
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> runtime
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> runtimeMirror
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> scala
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> schema
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> schemastring
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> selectType
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> show
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> spark
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> sparkContext
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> split
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> sql
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> staticModule
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> textFile
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> toDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> toDS
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> toInt
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> toLong
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> toString
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> toTypeConstructor
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> tools
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> trim
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> typedProductIterator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> types
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> universe
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> x
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> y
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> ||
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> $m
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> $m$untyped
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> $typecreator3
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> $typecreator5
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> $u
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> *
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> +
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ::
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> <init>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> <repeated>
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ?0
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> A
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Any
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> AnyRef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Array
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ArrayOps
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> B
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Builder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Class
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ClassLoader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ClassSymbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ClassTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> DataFrame
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> DataFrameReader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> DataFrameWriter
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Dataset
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> DatasetHolder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Encoder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Function1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Inclusive
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Int
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Internal
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> JavaUniverse
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> List
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Mirror
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ModuleSymbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Nil
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Nothing
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Object
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Predef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Product
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> RDD
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Range
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ReificationSupportApi
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> RichInt
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Row
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SQLDataSourceExample
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SaveMode
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Seq
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Singleton
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SparkContext
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> SparkSession
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> String
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Symbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> T
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> T0
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> T1
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> T2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> T3
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> ThisType
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Tuple2
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Tuple3
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Type
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> TypeCreator
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> TypeRef
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> TypeSymbol
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> TypeTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> U
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Unit
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> Universe
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> _$6
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> apache
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> appName
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> apply
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> asInstanceOf
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> asModule
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> asType
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> builder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> collect
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> collection
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> config
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> createOrReplaceTempView
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> cubeDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> foreach
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> getClass
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> getClassLoader
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> getOrCreate
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> i
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> immutable
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> implicits
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> intWrapper
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> internal
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> json
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> load
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> makeRDD
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> map
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> master
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> materializeClassTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> materializeTypeTag
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> mergedDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> mode
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> moduleClass
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> namesDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> newProductEncoder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> newStringEncoder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> option
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> org
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> otherpeople
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> otherpeopleDS
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> package
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> parquet
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> peopleDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> peopleFileDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> printSchema
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> println
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> rddToDatasetHolder
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> read
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> refArrayOps
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> reflect
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> reificationSupport
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> runJsonDatasetExample
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> runtime
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> runtimeMirror
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> save
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> scala
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> select
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> show
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> spark
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> sparkContext
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> sql
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> sqlDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> squresDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> staticClass
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> staticPackage
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> stop
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> to
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> toDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> toTypeConstructor
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> universe
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> userDF
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> write
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> x
+product stamps:
+37 items
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\HiveSparkSQL$.class -> lastModified(1495964404288)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\HiveSparkSQL.class -> lastModified(1495964404219)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation$$anonfun$1.class -> lastModified(1495964048710)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation$$anonfun$main$1.class -> lastModified(1495964048711)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation$$typecreator1$1.class -> lastModified(1495964048727)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation$.class -> lastModified(1495964048682)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\RDDRelation.class -> lastModified(1495964048666)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\Record$.class -> lastModified(1495964048774)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\Record.class -> lastModified(1495964048758)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\Records$.class -> lastModified(1495964404390)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\Records.class -> lastModified(1495964404380)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SimpleApp$$anonfun$1.class -> lastModified(1495964048927)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SimpleApp$$anonfun$2.class -> lastModified(1495964048943)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SimpleApp$.class -> lastModified(1495964048927)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SimpleApp.class -> lastModified(1495964048911)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$1.class -> lastModified(1495964048989)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$2.class -> lastModified(1495964049009)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$3.class -> lastModified(1495964049012)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$4.class -> lastModified(1495964049027)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$5.class -> lastModified(1495964049027)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$runInferSchemaExample$1.class -> lastModified(1495964049043)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$anonfun$runProgrammaticSchemaExample$1.class -> lastModified(1495964049058)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$typecreator2$1.class -> lastModified(1495964049074)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$typecreator3$1.class -> lastModified(1495964049074)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$$typecreator5$1.class -> lastModified(1495964049090)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$.class -> lastModified(1495964048974)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$Person$.class -> lastModified(1495964049112)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample$Person.class -> lastModified(1495964049109)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SparkSQLExample.class -> lastModified(1495964048958)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$anonfun$1.class -> lastModified(1495964048870)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$anonfun$2.class -> lastModified(1495964048882)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$anonfun$runBasicParquetExample$1.class -> lastModified(1495964048892)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$anonfun$runParquetSchemaMergingExample$1.class -> lastModified(1495964048902)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$typecreator3$1.class -> lastModified(1495964048911)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$$typecreator5$1.class -> lastModified(1495964048911)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample$.class -> lastModified(1495964048858)
+C:\Users\Suneel\workspace\sparksql01\target\scala-2.11\classes\SQLDataSourceExample.class -> lastModified(1495964048834)
+source stamps:
+5 items
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> hash(970766bac35dbefcc366f68f84aac1ba9e862791)
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> hash(087bf457f8adce39b3f6b5c10db68daca944eec2)
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> hash(cd576d7e181bb2491a57f538392e531d2e78dd48)
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> hash(97e1e5f2f7532a21f7c30327eef346f21b572791)
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> hash(82e12ddc9eecfe81668a0a8f09adabbbec067a43)
+binary stamps:
+8 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> lastModified(1483857916760)
+C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.1.jar -> lastModified(1493167686000)
+C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar -> lastModified(1493167440000)
+C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar -> lastModified(1493167860000)
+C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-tags_2.11\jars\spark-tags_2.11-2.1.1.jar -> lastModified(1493167484000)
+C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.1.jar -> lastModified(1400572986000)
+C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar -> lastModified(1400572938000)
+C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.1.jar -> lastModified(1400572965000)
+class names:
+8 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> java.lang.Object
+C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.1.jar -> org.apache.spark.sql.types.Metadata
+C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.1.jar -> org.apache.spark.SparkContext
+C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.1.jar -> org.apache.spark.sql.Dataset
+C:\Users\Suneel\.ivy2\cache\org.apache.spark\spark-tags_2.11\jars\spark-tags_2.11-2.1.1.jar -> org.apache.spark.annotation.Private
+C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.1.jar -> scala.tools.nsc.doc.model.Def
+C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar -> scala.Serializable
+C:\Users\Suneel\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.1.jar -> scala.reflect.api.TypeCreator
+internal apis:
+5 items
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwovAvGgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyqjx4XQABm5vdGlmeXNxAH4ADIKA5EZ0AAR3YWl0c3EAfgAMJN+N/HQADmNvcHkkZGVmYXVsdCQyc3EAfgAMQ86wnnQADSRhc0luc3RhbmNlT2ZzcQB+AAy+33I5dAAMcHJvZHVjdEFyaXR5c3EAfgAMn0LuFXQABmVxdWFsc3NxAH4ADJdaJOV0AAxhc0luc3RhbmNlT2ZzcQB+AAxQsiRSdAAMSGl2ZVNwYXJrU1FMc3EAfgAM/CSGRXQADHN5bmNocm9uaXplZHNxAH4ADCqtKSZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAM8BwHynQAB1JlY29yZHNzcQB+AAwznX+EdAAIY2FuRXF1YWxzcQB+AAzvT5HxdAAEbWFpbnNxAH4ADHcJEtN0AA1wcm9kdWN0UHJlZml4c3EAfgAMQZYhuXQACW5vdGlmeUFsbHNxAH4ADB9ryo10AANrZXlzcQB+AAxoN/j9dAAMaXNJbnN0YW5jZU9mc3EAfgAMIG66A3QABjxpbml0PnNxAH4ADHqaC3t0AAI9PXNxAH4ADP2dE4N0AAVjbG9uZXNxAH4ADN3hKyF0AAYkaW5pdCRzcQB+AAzVRgm1dAAEY29weXNxAH4ADLXZB4p0AAh0b1N0cmluZ3NxAH4ADIhe2aV0AAIhPXNxAH4ADBmnJ2R0AAhnZXRDbGFzc3NxAH4ADHtbjYV0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPXsR2V0AAJuZXNxAH4ADIAhY210AAV2YWx1ZXNxAH4ADGN4Vrd0AAJlcXNxAH4ADHJEAep0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzPLQMBdAACIyNzcQB+AAyCXggtdAAIZmluYWxpemVzcQB+AAys2SVudAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzY58Q9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHdzcQB+AHJ1cQB+AFYAAAAAc3EAfgBydXEAfgBWAAAAAHNxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdnQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkHNxAH4Ag3EAfgCGc3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3QABGphdmFzcQB+AI90AAJpb3EAfgCUc3EAfgCDdAAHUHJvZHVjdHEAfgCJc3EAfgCDdAAGRXF1YWxzcQB+AIlzcQB+AIN0AAZPYmplY3RzcQB+AIdzcQB+AIp1cQB+AI0AAAADc3EAfgCPcQB+AJpzcQB+AI90AARsYW5ncQB+AJRzcQB+AIN0AANBbnlxAH4AiXNxAH4AWHEAfgBldXEAfgBmAAAAAHNxAH4AaABxAH4AHXVxAH4AagAAAAB+cQB+AGx0AAZNb2R1bGV1cQB+AHAAAAAAc3EAfgBycQB+AHhzcQB+AHJzcQB+AHpzcQB+AHJ1cQB+AFYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFxxAH4AZXVxAH4AZgAAAABzcQB+AGgAcQB+ACd1cQB+AGoAAAAAc3EAfgCDdAAEVW5pdHNxAH4Ah3NxAH4AinVxAH4AjQAAAAJzcQB+AI9xAH4AknEAfgCUdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AuHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AbXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AdnNxAH4Ag3QABUFycmF5cQB+AMB1cQB+AIEAAAABc3EAfgCDdAAGU3RyaW5nc3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3EAfgCac3EAfgCPcQB+AKhxAH4AlHNxAH4AcnVxAH4AVgAAAABzcQB+AHJ1cQB+AIEAAAACc3EAfgCDcQB+AKJxAH4A2nNxAH4Ag3EAfgCqcQB+AMB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXE5tNDd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+QzpcVXNlcnNcU3VuZWVsXHdvcmtzcGFjZVxzcGFya3NxbDAxXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSXB2a6w12+/MNm9o+EqsG6noYnkQ==
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOj2y/QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwClxR9HQABm5vdGlmeXNxAH4ADCYx+ZB0AAR3YWl0c3EAfgAMYhL053QADmNvcHkkZGVmYXVsdCQyc3EAfgAMf16OjnQADSRhc0luc3RhbmNlT2ZzcQB+AAz8rO34dAAMcHJvZHVjdEFyaXR5c3EAfgAMXMdH5nQABmVxdWFsc3NxAH4ADGFBidJ0AAxhc0luc3RhbmNlT2ZzcQB+AAxmOxljdAAMc3luY2hyb25pemVkc3EAfgAMKap3iHQADSRpc0luc3RhbmNlT2ZzcQB+AAzvmhzGdAAIY2FuRXF1YWxzcQB+AAy2h1pLdAAEbWFpbnNxAH4ADHTfFyF0AA1wcm9kdWN0UHJlZml4c3EAfgAMHcypBXQACW5vdGlmeUFsbHNxAH4ADM6Mbi90AANrZXlzcQB+AAwNNFTGdAAMaXNJbnN0YW5jZU9mc3EAfgAMNhUaMHQABjxpbml0PnNxAH4ADGY10L90AAI9PXNxAH4ADPxP/GF0AAZSZWNvcmRzcQB+AAyti7nJdAAFY2xvbmVzcQB+AAx+aeROdAAGJGluaXQkc3EAfgAMpOMeE3QABGNvcHlzcQB+AAxPcUDUdAAIdG9TdHJpbmdzcQB+AAz7MW4odAACIT1zcQB+AAyBdfvGdAAIZ2V0Q2xhc3NzcQB+AAzcl3SkdAAOY29weSRkZWZhdWx0JDFzcQB+AAzGqIVidAALUkREUmVsYXRpb25zcQB+AAxR5/g7dAACbmVzcQB+AAyQM4YtdAAFdmFsdWVzcQB+AAyfyYSTdAACZXFzcQB+AAyZ+QHCdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMV1LLS3QAAiMjc3EAfgAMHQthu3QACGZpbmFsaXplc3EAfgAMgi+PcHQADnByb2R1Y3RFbGVtZW50c3EAfgAMLZi9jXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AW0wACWluaGVyaXRlZHEAfgBbTAAHcGFyZW50c3EAfgBbeHEAfgB3c3EAfgBydXEAfgBWAAAAAHNxAH4AcnVxAH4AVgAAAABzcQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHZ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJBzcQB+AINxAH4AhnNxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAACaW9xAH4AlHNxAH4Ag3QAB1Byb2R1Y3RxAH4AiXNxAH4Ag3QABkVxdWFsc3EAfgCJc3EAfgCDdAAGT2JqZWN0c3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3EAfgCac3EAfgCPdAAEbGFuZ3EAfgCUc3EAfgCDdAADQW55cQB+AIlzcQB+AFhxAH4AZXVxAH4AZgAAAABzcQB+AGgAcQB+AEF1cQB+AGoAAAAAfnEAfgBsdAAGTW9kdWxldXEAfgBwAAAAAHNxAH4AcnEAfgB4c3EAfgByc3EAfgB6c3EAfgBydXEAfgBWAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBccQB+AGV1cQB+AGYAAAAAc3EAfgBoAHEAfgAjdXEAfgBqAAAAAHNxAH4Ag3QABFVuaXRzcQB+AIdzcQB+AIp1cQB+AI0AAAACc3EAfgCPcQB+AJJxAH4AlHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ALh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AG10AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIRbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHZzcQB+AIN0AAVBcnJheXEAfgDAdXEAfgCBAAAAAXNxAH4Ag3QABlN0cmluZ3NxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI9xAH4AmnNxAH4Aj3EAfgCocQB+AJRzcQB+AHJ1cQB+AFYAAAAAc3EAfgBydXEAfgCBAAAAAnNxAH4Ag3EAfgCicQB+ANpzcQB+AINxAH4AqnEAfgDAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVxOZ7xVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPkM6XFVzZXJzXFN1bmVlbFx3b3Jrc3BhY2Vcc3BhcmtzcWwwMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCHv0V/itzjmz9rXBDbaNrKlE7sI=
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLuE+IgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwYNW/OXQABm5vdGlmeXNxAH4ADPiwm3N0AAR3YWl0c3EAfgAMxGx9tHQADSRhc0luc3RhbmNlT2ZzcQB+AAzzY+lkdAAGZXF1YWxzc3EAfgAMXcndWHQADGFzSW5zdGFuY2VPZnNxAH4ADGT2SL90AAxzeW5jaHJvbml6ZWRzcQB+AAyq0VVndAANJGlzSW5zdGFuY2VPZnNxAH4ADDmdyMl0AARtYWluc3EAfgAMLN6g13QACW5vdGlmeUFsbHNxAH4ADOAOovt0AAxpc0luc3RhbmNlT2ZzcQB+AAx0yo2KdAACPT1zcQB+AAy2AkmOdAAFY2xvbmVzcQB+AAwWiHTWdAAJU2ltcGxlQXBwc3EAfgAMPLKyX3QACHRvU3RyaW5nc3EAfgAMBf25KXQAAiE9c3EAfgAMEf6S33QACGdldENsYXNzc3EAfgAMjWkRK3QAAm5lc3EAfgAMFhuSTHQAAmVxc3EAfgAMwnNveHQAAiMjc3EAfgAMsPwuBXQACGZpbmFsaXplc3EAfgAMXUciP3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcTme8VXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD5DOlxVc2Vyc1xTdW5lZWxcd29ya3NwYWNlXHNwYXJrc3FsMDFcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM1XbX4YG7JJGlf1ODkuUx0ueN1I
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwndA+xQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwRHLAwHQABm5vdGlmeXNxAH4ADDDb7FB0AAd1bmFwcGx5c3EAfgAMVZKH7nQAB2N1cnJpZWRzcQB+AAzChiUMdAAEbmFtZXNxAH4ADJP0f4V0AAR3YWl0c3EAfgAMAuiqMHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMFYMJ+nQADSRhc0luc3RhbmNlT2ZzcQB+AAyTvFIRdAAMcHJvZHVjdEFyaXR5c3EAfgAMTBzIU3QABmVxdWFsc3NxAH4ADDndpix0AAxhc0luc3RhbmNlT2ZzcQB+AAxPn+wJdAAMc3luY2hyb25pemVkc3EAfgAMvnBuA3QADSRpc0luc3RhbmNlT2ZzcQB+AAzNrwbDdAAGdHVwbGVkc3EAfgAMQdqS0HQAD1NwYXJrU1FMRXhhbXBsZXNxAH4ADKVKxAd0AAhjYW5FcXVhbHNxAH4ADHupNyN0AARtYWluc3EAfgAMZW75O3QADXByb2R1Y3RQcmVmaXhzcQB+AAza7yV2dAADYWdlc3EAfgAMk89rhHQACW5vdGlmeUFsbHNxAH4ADNQuxUN0AAxpc0luc3RhbmNlT2ZzcQB+AAxkYj0FdAAGPGluaXQ+c3EAfgAMDHTQkXQABlBlcnNvbnNxAH4ADL7tqyx0AAVhcHBseXNxAH4ADEz2HFJ0AAI9PXNxAH4ADMIWtzd0AAVjbG9uZXNxAH4ADIUeqRx0AAYkaW5pdCRzcQB+AAyDALtpdAAEY29weXNxAH4ADNSG1bx0AAh0b1N0cmluZ3NxAH4ADIkLct50AAIhPXNxAH4ADLwxyi10AAhnZXRDbGFzc3NxAH4ADH15Xbt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADAhwiOt0AAJuZXNxAH4ADGj0lGt0AAJlcXNxAH4ADHYQydh0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxieTS6dAACIyNzcQB+AAx3NZSVdAAIZmluYWxpemVzcQB+AAwxdwnodAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyxTdVqdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgB/c3EAfgB6dXEAfgBeAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBkcQB+AG11cQB+AG4AAAAAc3EAfgBwAHEAfgAtdXEAfgByAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB+c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCadXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ah3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AdXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AjlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfnNxAH4AjXQABUFycmF5cQB+AJN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AjXQABlN0cmluZ3NxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJl0AARqYXZhc3EAfgCZdAAEbGFuZ3EAfgCec3EAfgB6dXEAfgBeAAAAAHNxAH4AenVxAH4AsgAAAAJzcQB+AI10AAZPYmplY3RxAH4AtnNxAH4AjXQAA0FueXEAfgCTdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVxOZ7xVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPkM6XFVzZXJzXFN1bmVlbFx3b3Jrc3BhY2Vcc3BhcmtzcWwwMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUl+Hl8vdTKiH3wwMn7vNG8htXJ5E=
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuVKSLwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwl8JA33QAFFNRTERhdGFTb3VyY2VFeGFtcGxlc3EAfgAMLIYEnHQABm5vdGlmeXNxAH4ADDvXfDh0AAR3YWl0c3EAfgAMikLBu3QADSRhc0luc3RhbmNlT2ZzcQB+AAwKtBsodAAGZXF1YWxzc3EAfgAM/LKIRXQADGFzSW5zdGFuY2VPZnNxAH4ADA95UbJ0AAxzeW5jaHJvbml6ZWRzcQB+AAwJf5sCdAANJGlzSW5zdGFuY2VPZnNxAH4ADM6Z1tV0AARtYWluc3EAfgAMx0y1pHQACW5vdGlmeUFsbHNxAH4ADDkxeKp0AAxpc0luc3RhbmNlT2ZzcQB+AAw74zfpdAACPT1zcQB+AAwNWpEvdAAFY2xvbmVzcQB+AAx559SldAAIdG9TdHJpbmdzcQB+AAz2YlN9dAACIT1zcQB+AAzqSHyHdAAIZ2V0Q2xhc3NzcQB+AAyADY4VdAACbmVzcQB+AAxCMDfcdAACZXFzcQB+AAypCZ7+dAACIyNzcQB+AAzHxl/ZdAAIZmluYWxpemVzcQB+AAwjvljAdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AA91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXHNxAH4Aa3QABUFycmF5cQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Aa3QABlN0cmluZ3NxAH4Ab3NxAH4AcnVxAH4AdQAAAANzcQB+AHd0AARqYXZhc3EAfgB3dAAEbGFuZ3EAfgB8c3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4AkAAAAAJzcQB+AGt0AAZPYmplY3RxAH4AlHNxAH4Aa3QAA0FueXEAfgBxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVxOZ7xVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPkM6XFVzZXJzXFN1bmVlbFx3b3Jrc3BhY2Vcc3BhcmtzcWwwMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUguEt3J7s/oFmigqPCa2ru+wGekM=
+external apis:
+0 items
+source infos:
+5 items
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\HiveSparkSQL.scala -> 
+AAAAAAAAAAA=
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\RDDRelation.scala -> 
+AAAAAAAAAAA=
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SimpleApp.scala -> 
+AAAAAAAAAAA=
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SparkSQLExample .scala -> 
+AAAAAAAAAAA=
+C:\Users\Suneel\workspace\sparksql01\src\main\scala\SQLDataSourceExample.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXE5nvFV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXFN1bmVlbFx3b3Jrc3BhY2Vcc3BhcmtzcWwwMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXE5tNDd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXFN1bmVlbFx3b3Jrc3BhY2Vcc3BhcmtzcWwwMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
